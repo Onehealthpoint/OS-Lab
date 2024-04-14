@@ -1,0 +1,22 @@
+1. Basic Linux Commands.
+
+2. Create a single process and display the id.
+
+3. Demonstrate thread creation and termination in linux.
+
+4. First Come First Served (FCFS) scheduling algorithm.
+
+5. Shortest Job First (SJF) scheduling algorithm.
+
+6. Round Robin (RR) scheduling algorithm.
+
+7. Deadlock detection algorithm.
+
+8. Optimal page replacement algorithm.
+
+9. Shortest Seek Time First (SSTF) disk scheduling algorithm.
+
+10. C-SCAN disk scheduling algorithm.
+
+11. C-LOOK disk scheduling algorithm.
+
