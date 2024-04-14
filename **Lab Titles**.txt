@@ -1,5 +1,5 @@
 // I think fork() method doesn't work in devcpp. Lab 2 didnt compile on my laptop. But it did after I removed fork(), don't know what thats about!  
-// Actually net says windows doesn't have fork() like linux, so that's why its not working??
+// Actually net says windows doesn't have fork() like linux.
 
 1. Basic Linux Commands.
 
